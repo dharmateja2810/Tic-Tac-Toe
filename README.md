@@ -4,6 +4,6 @@
 
 # Installation
   Clone the repository:  
-  git clone https://github.com/dharmateja2810/Tic-Tac-Toe.git 
-  cd Tic-Tac-Toe 
-  Open the index.html file in your web browser. 
+  git clone https://github.com/dharmateja2810/Tic-Tac-Toe.git  
+  cd Tic-Tac-Toe  
+  Open the index.html file in your web browser.  
